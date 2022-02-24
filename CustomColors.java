@@ -1,4 +1,4 @@
-package com.github.jingerjesus.simulationsimulator;
+//package com.github.jingerjesus.<PROJECT_NAME>
 
 import javafx.scene.paint.Color;
 
@@ -18,6 +18,12 @@ public class CustomColors {
     public static Color midRed = Color.rgb(140,0,0);
     public static Color darkRed = Color.rgb(84,0,0);
     public static Color darkDarkRed = Color.rgb(43,0,0);
+
+    //greens
+    public static Color lightGreen = Color.rgb(84,255,90);
+    public static Color vibrantGreen = Color.rgb(0,255,0);
+    public static Color midGreen = Color.rgb(15, 148, 19);
+    public static Color darkGreen = Color.rgb(0,94,3);
 
     //blues
     public static Color skyBlue = Color.rgb(124, 176, 222);
